@@ -1,4 +1,4 @@
-// Copyright 2022 Sven Hecht (@mostley)
+// Copyright 2022 Sven Hecht (@Sven Hecht)
 // SPDX-License-Identifier: GPL-2.0-or-later
 
 #pragma once
@@ -19,15 +19,5 @@
 //#define NO_ACTION_TAPPING
 //#define NO_ACTION_ONESHOT
 
-#define SPLIT_USB_DETECT
-#define MASTER_RIGHT
 #define NO_ACTION_MACRO
 #define NO_ACTION_FUNCTION
-#define SOFT_SERIAL_PIN D1
-
-#ifndef NO_DEBUG
-#define NO_DEBUG
-#endif // !NO_DEBUG
-#if !defined(NO_PRINT) && !defined(CONSOLE_ENABLE)
-#define NO_PRINT
-#endif // !NO_PRINT

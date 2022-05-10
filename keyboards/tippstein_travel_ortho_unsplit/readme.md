@@ -4,7 +4,7 @@
 
 *A short description of the keyboard/project*
 
-* Keyboard Maintainer: [Sven Hecht](https://github.com/Sven Hecht)
+* Keyboard Maintainer: [Tippstein](https://tippstein.com)
 * Hardware Supported: *The PCBs, controllers supported*
 * Hardware Availability: *Links to where you can find this hardware*
 

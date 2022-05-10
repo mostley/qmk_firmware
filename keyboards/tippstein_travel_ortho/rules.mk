@@ -1,1 +1,7 @@
-# This file intentionally left blank
+# MCU name
+MCU = atmega32u4
+
+SPLIT_KEYBOARD = yes
+EXTRAFLAGS += -flto
+LTO_ENABLE = yes
+KEY_OVERRIDE_ENABLE = no
